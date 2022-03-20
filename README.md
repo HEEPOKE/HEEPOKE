@@ -1,4 +1,4 @@
-<p><img src="https://i.idol.st/u/activities/m3Z8djnm31GFmyKdIFa9DFqUODdIug.gif" align="center" width="100" height="70"></p>
+<p align="center" width="100" height="70"><img src="https://i.idol.st/u/activities/m3Z8djnm31GFmyKdIFa9DFqUODdIug.gif"></p>
 <p><a href="https://github.com/HEEPOKE"><h1 align="center">HI👋 ,I'm Poundpitak</h1></a></p>
 
 I'm from Thailand
