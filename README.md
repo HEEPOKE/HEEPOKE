@@ -1,7 +1,7 @@
 <p align="center" width="700" height="85"><img src="https://i.idol.st/u/activities/m3Z8djnm31GFmyKdIFa9DFqUODdIug.gif"></p>
 <p><a href="https://github.com/HEEPOKE"><h1 align="center">HI👋 ,I'm Poundpitak</h1></a></p>
 
-I'm from Thailand
+<h3>I'm from Thailand</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -37,9 +37,5 @@ I'm from Thailand
 <a href="https://www.python.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=HEEPOKE&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/HEEPOKE/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/HEEPOKE/github-stats-transparent/output/generated/languages.svg)
-
+  <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
