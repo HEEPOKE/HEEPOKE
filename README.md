@@ -1,10 +1,10 @@
+<p><img src="https://i.idol.st/u/activities/m3Z8djnm31GFmyKdIFa9DFqUODdIug.gif" align="center" width="100" height="70"></p>
 <p><a href="https://github.com/HEEPOKE"><h1 align="center">HI👋 ,I'm Poundpitak</h1></a></p>
 
 I'm from Thailand
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=HEEPOKE&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 **About me**
 
