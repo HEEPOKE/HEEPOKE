@@ -2,12 +2,18 @@
 
 I'm from Thailand
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=HEEPOKE&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 **About me**
 
 - ????
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank"> 
