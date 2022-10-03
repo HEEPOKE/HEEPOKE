@@ -49,7 +49,7 @@
    <a href="#" target="_blank">
       <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/></a>
       <a href="#" target="_blank">
-      <img src="https://cdn.mrplates.com/assets/88/3d/a9/883da93d691911e6b7a702ffde8c7c1f/800x600.png" alt="Pornhub" width="40" height="40"/></a>
+      <img src="https://cdn.mrplates.com/assets/88/3d/a9/883da93d691911e6b7a702ffde8c7c1f/800x600.png" alt="JAV" width="60" height="50"/></a>
   <a href="https://getbootstrap.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
   </p>
