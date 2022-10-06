@@ -55,6 +55,6 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vitejs" width="40" height="40"/></a>
   </p>
  
- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&include_all_commits=trues" />
+ <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&include_all_commits=trues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact" />
 
