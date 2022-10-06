@@ -56,5 +56,5 @@
   </p>
  
  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&include_all_commits=trues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
