@@ -56,7 +56,7 @@
   </p>
  <div class="container row">
  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&include_all_commits=trues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
  <div class="container row">
 <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
