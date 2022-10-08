@@ -57,5 +57,5 @@
  
  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&include_all_commits=trues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudkinox&theme=solarized_dark&count_private=true)
+<img height="137px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudkinox&theme=solarized_dark&count_private=true" />
 ![กีตาร์ Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudkinox&theme=solarized_dark&count_private=true)
