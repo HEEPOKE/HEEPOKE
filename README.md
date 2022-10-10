@@ -27,7 +27,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank"> 
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" alt="kubernetes" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> 
 <a href="https://www.mongodb.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> 
