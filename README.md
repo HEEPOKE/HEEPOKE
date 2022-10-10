@@ -11,8 +11,8 @@
 
 **Social**
 
-<h4 class="text-center"> - <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="30"/> : calmtown_amorn</h4>
-<h4 class="text-center"> - <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="30"/> : 庄文峰#4380</h4>
+- <h4 class="text-center" style="align-item: center"><img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="30"/> : calmtown_amorn</h4>
+- <h4 class="text-center"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="30"/> : 庄文峰#4380</h4>
 
 <h3 align="left">Languages && Framework && Libary:</h3>
 <p align="left">
