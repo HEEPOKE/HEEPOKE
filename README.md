@@ -29,6 +29,9 @@
 <a href="https://nodejs.org" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
 </a> 
+<a href="https://nodejs.org" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=express" alt="nodejs" width="40" height="40"/> 
+</a> 
 <a href="https://flutter.dev" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> 
 </a> 
@@ -48,41 +51,53 @@
  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
 <a href="https://cucumber.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vue" alt="cucumber" width="40" height="40"/>
+</a>
+<a href="https://cucumber.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nuxtjs" alt="cucumber" width="40" height="40"/>
+</a>
+<a href="https://cucumber.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
 </a>
 
+<p align="left">
+<h3 align="left">Tools :</h3>
+<p align="left">
 
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/>
 </a>
-
 <a href="https://www.docker.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://kubernetes.io" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> 
-
-<a href="https://www.mongodb.com/" target="_blank"> 
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
 </a> 
+<a href="https://www.cypress.io" target="_blank">
+ <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" alt="cypress" width="40" height="40"/>
+</a>
+<a href="https://vitejs.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vitejs" width="40" height="40"/>
+</a>
+
+<p align="left">
+<h3 align="left">Database :</h3>
+<p align="left">
+
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
 </a>
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=postgres" alt="mysql" width="40" height="40"/> 
 </a>
+<a href="https://www.mongodb.com/" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
+</a> 
 
+<p align="left">
+<h3 align="left">Version control :</h3>
+<p align="left">
 
-
-<a href="https://www.cypress.io" target="_blank">
- <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" alt="cypress" width="40" height="40"/>
-</a>
-<a href="wwww.pornhub.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
-</a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vitejs" width="40" height="40"/>
-</a>
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 </a>
@@ -92,6 +107,15 @@
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=gitlab" alt="git" width="40" height="40"/>
 </a>
+
+<p align="left">
+<h3 align="left">Others :</h3>
+<p align="left">
+
+<a href="wwww.pornhub.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
+</a>
+
 </p>
 
 <div class="container row">
