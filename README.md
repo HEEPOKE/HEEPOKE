@@ -9,6 +9,11 @@
 
 - ????
 
+**Social**
+
+- <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40"/> : calmtown_amorn
+- <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="40"/> : 庄文峰#4380
+
 <h3 align="left">Languages && Framework && Libary:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> 
