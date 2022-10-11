@@ -9,10 +9,11 @@
 
 - ????
 
-**Social**
+**Social(you can follpw me)**
 
-- <h4 class="text-center" style="margin-bottom: 20px"><img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="30"/> : calmtown_amorn</h4>
-- <h4 class="text-center"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="30"/> : 庄文峰#4380</h4>
+- <a href="https://www.instagram.com/calmtown_amorn/?hl=en" target="_blank">
+  <img src="https://www.instagram.com/calmtown_amorn/?hl=en" alt="discord" width="40" height="30"/>
+  </a>
 
 <h3 align="left">Languages && Framework && Libary:</h3>
 <p align="left">
