@@ -11,9 +11,9 @@
 
 **Social(you can follpw me)**
 
-- <a href="https://www.instagram.com/calmtown_amorn/?hl=en" target="_blank">
+<a href="https://www.instagram.com/calmtown_amorn/?hl=en" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="30"/>
-  </a>
+</a>
 
 <h3 align="left">Languages && Framework && Libary:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
 </a> 
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a href="https://reactjs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
 </a> 
 <a href="https://nodejs.org" target="_blank"> 
@@ -56,11 +56,11 @@
 <a href="https://getbootstrap.com/" target="_blank">
  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
-<a href="https://cucumber.io" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vue" alt="cucumber" width="40" height="40"/>
+<a href="https://vuejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/>
 </a>
-<a href="https://cucumber.io" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nuxtjs" alt="cucumber" width="40" height="40"/>
+<a href="https://nuxtjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/>
 </a>
 <a href="https://cucumber.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
@@ -76,8 +76,8 @@
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/>
 </a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Vitejs" width="40" height="40"/>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </a>
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vite" alt="Vitejs" width="40" height="40"/>
@@ -99,8 +99,8 @@
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
 </a>
-<a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://skillicons.dev/icons?i=postgres" alt="mysql" width="40" height="40"/> 
+<a href="https://www.postgresql.org/" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
@@ -110,22 +110,22 @@
 <h3 align="left">Version control :</h3>
 <p align="left">
 
-<a href="https://vitejs.dev/" target="_blank">
+<a href="https://git-scm.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 </a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="git" width="40" height="40"/>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
 </a>
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gitlab" alt="git" width="40" height="40"/>
+<a href="https://about.gitlab.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/>
 </a>
 
 <p align="left">
 <h3 align="left">Others :</h3>
 <p align="left">
 
-<a href="https://vitejs.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ps" alt="git" width="40" height="40"/>
+<a href="https://www.adobe.com/th_th/products/photoshop/landpa.html?gclid=Cj0KCQjwhY-aBhCUARIsALNIC07e7QchCdpUEbUwz1Y7Yxs9fuATrswZydyESYmh6VoLtrOwluKFsMkaAgDaEALw_wcB&sdid=Z662FWNM&mv=search&ef_id=Cj0KCQjwhY-aBhCUARIsALNIC07e7QchCdpUEbUwz1Y7Yxs9fuATrswZydyESYmh6VoLtrOwluKFsMkaAgDaEALw_wcB:G:s&s_kwcid=AL!3085!3!469963249343!e!!g!!photoshop!11255868602!109251042654" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="40" height="40"/>
 </a>
 <a href="wwww.pornhub.com" target="_blank">
   <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
