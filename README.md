@@ -35,8 +35,8 @@
 <a href="https://nodejs.org" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
 </a> 
-<a href="https://nodejs.org" target="_blank"> 
-  <img src="https://skillicons.dev/icons?i=express" alt="nodejs" width="40" height="40"/> 
+<a href="https://expressjs.com/" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
 </a> 
 <a href="https://flutter.dev" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> 
@@ -44,9 +44,9 @@
 <a href="https://golang.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> 
 </a> 
-<a href="https://www.python.org" target="_blank"> 
+<!-- <a href="https://www.python.org" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
-</a>
+</a> -->
 <a href="https://www.php.net/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=php" alt="php" width="" height="40"/>
 </a>
