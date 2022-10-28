@@ -62,14 +62,19 @@
 <a href="https://nuxtjs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/>
 </a>
+  <a href="https://nextjs.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
+</a>
+  <a href="https://nestjs.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
+</a>
 <a href="https://cucumber.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
 </a>
 
 <p align="left">
-<h3 align="left">Tools && Server:</h3>
+<h3 align="left">Tools && Devops:</h3>
 <p align="left">
-
 <a href="https://www.cypress.io" target="_blank">
  <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" alt="cypress" width="40" height="40"/>
 </a>
@@ -93,6 +98,9 @@
 </a> 
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux" alt="Vitejs" width="40" height="40"/>
+</a>
+  <a href="https://firebase.google.com/?gclid=CjwKCAjw2OiaBhBSEiwAh2ZSP1irVhummuSs_j_VgKC6-RMV4m_qFNeu-vBxAjONmAHVggYiWgeKVRoCZsYQAvD_BwE&gclsrc=aw.ds" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
 </a>
 
 <p align="left">
