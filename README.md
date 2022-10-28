@@ -99,9 +99,6 @@
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux" alt="Vitejs" width="40" height="40"/>
 </a>
-  <a href="https://firebase.google.com/?gclid=CjwKCAjw2OiaBhBSEiwAh2ZSP1irVhummuSs_j_VgKC6-RMV4m_qFNeu-vBxAjONmAHVggYiWgeKVRoCZsYQAvD_BwE&gclsrc=aw.ds" target="_blank">
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-</a>
 
 <p align="left">
 <h3 align="left">Database :</h3>
@@ -116,6 +113,9 @@
 <a href="https://www.mongodb.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
 </a> 
+    <a href="https://firebase.google.com/?gclid=CjwKCAjw2OiaBhBSEiwAh2ZSP1irVhummuSs_j_VgKC6-RMV4m_qFNeu-vBxAjONmAHVggYiWgeKVRoCZsYQAvD_BwE&gclsrc=aw.ds" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
+</a>
 
 <p align="left">
 <h3 align="left">Version control :</h3>
