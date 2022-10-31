@@ -38,23 +38,20 @@
 <a href="https://expressjs.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
 </a> 
+  <a href="https://dart.dev" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> 
+</a>
 <a href="https://flutter.dev" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> 
 </a> 
 <a href="https://golang.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> 
 </a> 
-<!-- <a href="https://www.python.org" target="_blank"> 
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
-</a> -->
 <a href="https://www.php.net/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=php" alt="php" width="" height="40"/>
 </a>
 <a href="https://laravel.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
- <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
 <a href="https://vuejs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/>
@@ -71,6 +68,15 @@
 <a href="https://cucumber.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
 </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+ <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
+</a>
+  <a href="https://tailwindcss.com" target="_blank">
+ <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind css" width="40" height="40"/>
+</a>
+    <a href="https://windicss.org" target="_blank">
+ <img src="https://skillicons.dev/icons?i=windicss" alt="windicss" width="40" height="40"/>
+</a>
 
 <p align="left">
 <h3 align="left">Tools && Devops:</h3>
@@ -83,6 +89,9 @@
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/>
+</a>
+  <a href="https://developer.android.com/studio?gclid=CjwKCAjw5P2aBhAlEiwAAdY7dIazi1LpIsZoMRLFanlek-4dCt9rToVB83PBp8jMXrygbnJaM5QunxoCnm8QAvD_BwE&gclsrc=aw.ds" target="_blank">
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="android studio" width="40" height="40"/>
 </a>
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
