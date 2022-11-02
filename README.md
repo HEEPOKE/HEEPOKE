@@ -139,6 +139,9 @@
 <a href="https://about.gitlab.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/>
 </a>
+  <a href="https://bitbucket.org/product?&aceid=&adposition=&adgroup=92266811677&campaign=9122400134&creative=414680965838&device=c&keyword=bitbucket&matchtype=e&network=g&placement=&ds_kids=p51241933832&ds_e=GOOGLE&ds_eid=700000001551985&ds_e1=GOOGLE&gclid=Cj0KCQjwqoibBhDUARIsAH2OpWgUfj9g4KHs9H3vcgmoYEvrJ68HtlaFHQLsNtq8UmLV-A59I0OHSs4aAvZOEALw_wcB&gclsrc=aw.ds" target="_blank">
+  <img src="https://commons.wikimedia.org/wiki/File:Bitbucket-blue-logomark-only.svg" alt="bitbucket" width="40" height="40"/>
+</a>
 
 <p align="left">
 <h3 align="left">Others :</h3>
