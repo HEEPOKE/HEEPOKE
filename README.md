@@ -105,7 +105,7 @@
 <a href="https://kubernetes.io" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> 
 </a> 
-<a href="https://vitejs.dev/" target="_blank">
+<a href="https://www.linux.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux" alt="Vitejs" width="40" height="40"/>
 </a>
 
