@@ -3,7 +3,7 @@
 
 <h3>Thailand</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 **About me**
 
