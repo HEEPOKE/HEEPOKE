@@ -68,6 +68,9 @@
 <a href="https://cucumber.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
 </a>
+<a href="https://www.cypress.io" target="_blank">
+ <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" alt="cypress" width="40" height="40"/>
+</a>
   <a href="https://getbootstrap.com/" target="_blank">
  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
@@ -80,10 +83,7 @@
 
 <p align="left">
 <h3 align="left">Tools && Devops:</h3>
-<p align="left">
-<a href="https://www.cypress.io" target="_blank">
- <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" alt="cypress" width="40" height="40"/>
-</a>
+  <p align="left">
 <a href="https://www.postman.com/downloads/" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
