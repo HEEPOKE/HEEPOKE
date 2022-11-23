@@ -81,12 +81,6 @@
 <p align="left">
 <h3 align="left">Tools && Devops:</h3>
   <p align="left">
-  <a href="https://cucumber.io" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
-</a>
-<a href="https://www.postman.com/downloads/" target="_blank">
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/>
 </a>
@@ -108,7 +102,12 @@
 <a href="https://www.linux.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux" alt="Vitejs" width="40" height="40"/>
 </a>
-
+  <a href="https://cucumber.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
+</a>
+  <a href="https://www.postman.com/downloads/" target="_blank">
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
 <p align="left">
 <h3 align="left">Database :</h3>
 <p align="left">
