@@ -65,9 +65,6 @@
   <a href="https://nestjs.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
 </a>
-<a href="https://www.cypress.io" target="_blank">
- <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" alt="cypress" width="40" height="40"/>
-</a>
   <a href="https://getbootstrap.com/" target="_blank">
  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
@@ -77,7 +74,10 @@
     <a href="https://windicss.org" target="_blank">
  <img src="https://skillicons.dev/icons?i=windicss" alt="windicss" width="40" height="40"/>
 </a>
-
+<a href="https://www.cypress.io" target="_blank">
+ <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" alt="cypress" width="40" height="40"/>
+</a>
+  
 <p align="left">
 <h3 align="left">Tools && Devops:</h3>
   <p align="left">
