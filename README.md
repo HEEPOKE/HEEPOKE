@@ -7,7 +7,7 @@
 
 **About me**
 
-- ????
+- Fullstack Developer
 
 **Social (you can follow me)**
 
