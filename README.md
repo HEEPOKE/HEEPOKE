@@ -53,6 +53,9 @@
 <a href="https://laravel.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
 </a>
+  <a href="https://angular.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/>
+</a>
 <a href="https://vuejs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/>
 </a>
