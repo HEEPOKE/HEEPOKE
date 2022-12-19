@@ -16,6 +16,8 @@
 </a>
 
 <p align="left">
+<h3 align="left">Stats :</h3>
+<p align="left">
   <p align="center">
     <img height="150px"
 src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly" />
@@ -187,7 +189,5 @@ src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-da
 <a href="wwww.pornhub.com" target="_blank">
   <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
 </a>
-
 </p>
-<p align="left">
-<h3 align="left">Stats :</h3>
+
