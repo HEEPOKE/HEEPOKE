@@ -24,7 +24,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-da
     </p>
     
 <p align="right" width="100%">
- <img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+ <img height="150px" width="30%" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </p>
 
