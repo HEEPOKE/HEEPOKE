@@ -177,7 +177,7 @@
 <h3 align="left">Stats :</h3>
 <p align="left">
   <p align="center">
-    <img
+    <img height="135px"
 src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly)](https://git.io/streak-stats" />
     </p>
     
