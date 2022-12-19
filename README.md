@@ -9,12 +9,6 @@
 
 - Fullstack Developer
 
-**Social (you can follow me)**
-
-<a href="https://www.instagram.com/calmtown_amorn/?hl=en" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="30"/>
-</a>
-
 <p align="left">
 <h3 align="left">Stats :</h3>
 <p align="left">
