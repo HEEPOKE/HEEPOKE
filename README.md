@@ -178,7 +178,7 @@
 <p align="left">
   <div class="row justify-content-center">
     <img height="130px" 
-src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats" />
+src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly)](https://git.io/streak-stats" />
     </div>
     
 <div class="container row">
