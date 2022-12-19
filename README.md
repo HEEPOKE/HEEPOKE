@@ -15,6 +15,22 @@
   <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="30"/>
 </a>
 
+<p align="left">
+  <p align="center">
+    <img height="150px"
+src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly" />
+    </p>
+    
+<div class="container row">
+ <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+ <div class="container row">
+<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
+<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark" />
+</div>
+
 <h3 align="left">Languages && Framework && Libary:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> 
@@ -175,20 +191,3 @@
 </p>
 <p align="left">
 <h3 align="left">Stats :</h3>
-<p align="left">
-  <p align="center">
-    <img height="150px"
-src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly" />
-    </p>
-    
-<div class="container row">
- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HEEPOKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
- <div class="container row">
-<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
-<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark" />
-</div>
-
-
