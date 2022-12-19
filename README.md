@@ -186,5 +186,5 @@
 📊 &nbsp;**This week I spent my time on**
 <div class="container row">
 <img height="130px" 
-src="https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only" />
+src="https://raw.githubusercontent.com/HEEPOKE/github-stats-transparent/output/generated/overview.svg" />
   </div>
