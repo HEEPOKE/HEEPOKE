@@ -186,5 +186,5 @@
 📊 &nbsp;**This week I spent my time on**
 <div class="container row">
 <img height="130px" 
-src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=HEEPOKE&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+src="https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only" />
   </div>
