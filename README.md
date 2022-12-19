@@ -182,3 +182,8 @@
 <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
 <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark" />
 </div>
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=HEEPOKE&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
