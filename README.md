@@ -28,10 +28,10 @@ src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-da
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </p>
 
- <div class="container row">
-<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
-<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark" />
-</div>
+<p align="center" width="100%">
+<img height="160px" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
+<img height="160px" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark" />
+</p>
 
 <h3 align="left">Languages && Framework && Libary:</h3>
 <p align="left">
