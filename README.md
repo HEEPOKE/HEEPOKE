@@ -93,7 +93,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-da
   <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/>
 </a>
           <a href="https://www.rust-lang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=rails" alt="rust" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
 </a>
     <a href="https://www.prisma.io/" target="_blank">
  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
