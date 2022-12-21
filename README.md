@@ -89,11 +89,14 @@ src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-da
       <a href="https://www.ruby-lang.org/en/" target="_blank">
   <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/>
 </a>
-        <a href="https://rubyonrails.org/" target="_blank">
+<a href="https://rubyonrails.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/>
 </a>
-          <a href="https://www.rust-lang.org/" target="_blank">
+<a href="https://www.rust-lang.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
+</a>
+  <a href="https://actix.rs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=actix" alt="actix" width="40" height="40"/>
 </a>
     <a href="https://www.prisma.io/" target="_blank">
  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
