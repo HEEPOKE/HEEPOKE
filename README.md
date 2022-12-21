@@ -24,7 +24,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-da
 
 <p align="center" width="100%">
 <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
-<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark" />
+<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark&hide=javascript" />
 </p>
 
 <h3 align="left">Languages && Framework && Libary:</h3>
