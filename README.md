@@ -23,7 +23,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-da
 </p>
 
 <p align="center" width="100%">
-<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&langs_count=8&hide=html,css,scss,less,Hack,javascript&theme=github_dark&count_private=true" />
+<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
 <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark" />
 </p>
 
