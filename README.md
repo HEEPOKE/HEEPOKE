@@ -23,7 +23,7 @@
 | ------------- | ------------- |
 
 
-###Languages && Framework && Libary:
+### Languages && Framework && Libary:
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
@@ -111,7 +111,7 @@
 </a>
   
 
-###Tools:
+### Tools:
   <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/>
@@ -133,7 +133,7 @@
 </a>
 </p>
   
-###Infra:
+### Infra:
 <p align="left">
 <a href="https://www.docker.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
@@ -146,7 +146,7 @@
 </a>
  </p>
   
-###Database:
+### Database:
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
@@ -161,7 +161,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
 </a>
 
-###Version control:
+### Version control:
 <p align="left">
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
@@ -177,7 +177,7 @@
 </a>
 </p>
 
-###Others:
+### Others:
 <p align="left">
 <a href="#" target="_blank">
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
