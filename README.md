@@ -100,6 +100,9 @@
   <a href="https://getbootstrap.com/" target="_blank">
  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
+<a href="#">
+ <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/>
+</a>
   <a href="https://tailwindcss.com" target="_blank">
  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind css" width="40" height="40"/>
 </a>
@@ -115,6 +118,12 @@
   <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/>
+</a>
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/>
+</a>
+<a href="https://www.vim.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="40" height="40"/>
 </a>
   <a href="https://developer.android.com/studio?gclid=CjwKCAjw5P2aBhAlEiwAAdY7dIazi1LpIsZoMRLFanlek-4dCt9rToVB83PBp8jMXrygbnJaM5QunxoCnm8QAvD_BwE&gclsrc=aw.ds" target="_blank">
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="android studio" width="40" height="40"/>
