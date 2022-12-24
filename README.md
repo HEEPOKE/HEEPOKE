@@ -10,6 +10,8 @@
 - Fullstack Developer
 
 <p align="left">
+  ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=HEEPOKE&label=View%20Profile&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=red)
+  
 <h3 align="left">Stats :</h3>
 <p align="left">
   <p align="center">
