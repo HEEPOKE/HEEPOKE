@@ -9,7 +9,8 @@
 
 - Fullstack Developer
 
-<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HEEPOKE.SpoonKnife&label=View%20Profile&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=blue" />
+<img height="20%"  width="200px"
+ src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HEEPOKE.SpoonKnife&label=View%20Profile&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=blue" />
 
 <p align="left">
 <h3 align="left">Stats :</h3>
