@@ -8,34 +8,22 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE&theme=radical&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## About Me
+### About Me
 - Fullstack Developer
 
-## Stats
+### Stats
 [![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/HEEPOKE/HEEPOKE)
-
 
 
 |  [![HEEPOKE GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEPOKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/HEEPOKE/HEEPOKE) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&langs_count=10&hide=html,css,scss,less,Hack,javascript,shell,batchfile&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github.com/HEEPOKE/HEEPOKE)   |
 | ------------- | ------------- |
 
 
-
-
 |  [![HEEPOKE GitHub Use Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true)](https://github.com/HEEPOKE/HEEPOKE) | [![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark)](https://github.com/HEEPOKE)  |
 | ------------- | ------------- |
 
 
-
-
-
-<!-- 
-<p align="center" width="100%">
-<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
-<img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark" />
-</p> -->
-
-<h3 align="left">Languages && Framework && Libary:</h3>
+###Languages && Framework && Libary:
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
@@ -122,8 +110,8 @@
  <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" alt="cypress" width="40" height="40"/>
 </a>
   
-<p align="left">
-<h3 align="left">Tools:</h3>
+
+###Tools:
   <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/>
@@ -143,10 +131,10 @@
   <a href="https://www.postman.com/downloads/" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
+</p>
   
-  <p align="left">
-<h3 align="left">Infra:</h3>
-  <p align="left">
+###Infra:
+<p align="left">
 <a href="https://www.docker.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
 </a>
@@ -156,9 +144,9 @@
 <a href="https://www.linux.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux" alt="Vitejs" width="40" height="40"/>
 </a>
+ </p>
   
-<p align="left">
-<h3 align="left">Database :</h3>
+###Database:
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
@@ -173,10 +161,8 @@
   <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
 </a>
 
+###Version control:
 <p align="left">
-<h3 align="left">Version control :</h3>
-<p align="left">
-
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
 </a>
@@ -189,11 +175,10 @@
   <a href="https://bitbucket.org/product?&aceid=&adposition=&adgroup=92266811677&campaign=9122400134&creative=414680965838&device=c&keyword=bitbucket&matchtype=e&network=g&placement=&ds_kids=p51241933832&ds_e=GOOGLE&ds_eid=700000001551985&ds_e1=GOOGLE&gclid=Cj0KCQjwqoibBhDUARIsAH2OpWgUfj9g4KHs9H3vcgmoYEvrJ68HtlaFHQLsNtq8UmLV-A59I0OHSs4aAvZOEALw_wcB&gclsrc=aw.ds" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/750px-Bitbucket-blue-logomark-only.svg.png?20190310101817" alt="bitbucket" width="40" height="40"/>
 </a>
+</p>
 
+###Others:
 <p align="left">
-<h3 align="left">Others :</h3>
-<p align="left">
-  
 <a href="#" target="_blank">
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
 </a>
