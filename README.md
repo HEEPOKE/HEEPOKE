@@ -12,15 +12,25 @@
 - Fullstack Developer
 
 ## Stats
-<!-- [![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/HEEPOKE/HEEPOKE) -->
+[![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/HEEPOKE/HEEPOKE)
 
-|  [![HEEPOKE GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEPOKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)]
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&langs_count=10&hide=html,css,scss,less,Hack,javascript,shell,batchfile&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)]  |
+
+
+|  [![HEEPOKE GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEPOKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/HEEPOKE/HEEPOKE) 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&langs_count=10&hide=html,css,scss,less,Hack,javascript,shell,batchfile&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github.com/HEEPOKE/HEEPOKE)   |
 | ------------- | ------------- |
+
+
+
 
 |  [![HEEPOKE GitHub Use Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true)](https://github.com/HEEPOKE/HEEPOKE) 
 | [![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark)](https://github.com/HEEPOKE)  |
 | ------------- | ------------- |
+
+
+
+
+
 <!-- 
 <p align="center" width="100%">
 <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true" />
