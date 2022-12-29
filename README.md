@@ -97,6 +97,9 @@
     <a href="https://www.prisma.io/" target="_blank">
  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
 </a>
+   <a href="https://cucumber.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
+</a>
   <a href="https://getbootstrap.com/" target="_blank">
  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
@@ -133,9 +136,6 @@
 </a>
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vite" alt="Vitejs" width="40" height="40"/>
-</a>
-  <a href="https://cucumber.io" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
 </a>
   <a href="https://www.postman.com/downloads/" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
