@@ -46,6 +46,9 @@
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
 </a> 
+ <a href="https://redux.js.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> 
+</a> 
 <a href="https://expressjs.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
 </a> 
