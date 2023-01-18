@@ -100,6 +100,18 @@
   <a href="https://actix.rs" target="_blank">
   <img src="https://skillicons.dev/icons?i=actix" alt="actix" width="40" height="40"/>
 </a>
+   <a href="https://www.python.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.djangoproject.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
+</a>
+ <a href="https://fastapi.tiangolo.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django" alt="fastapi" width="40" height="40"/>
+</a>
+  <a href="https://palletsprojects.com/p/flask/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+</a>
     <a href="https://graphql.org" target="_blank">
  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
 </a>    
