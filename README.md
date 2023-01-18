@@ -152,6 +152,9 @@
 <a href="https://www.vim.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="40" height="40"/>
 </a>
+<a href="https://neovim.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="40" height="40"/>
+</a>
   <a href="https://developer.android.com/studio?gclid=CjwKCAjw5P2aBhAlEiwAAdY7dIazi1LpIsZoMRLFanlek-4dCt9rToVB83PBp8jMXrygbnJaM5QunxoCnm8QAvD_BwE&gclsrc=aw.ds" target="_blank">
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="android studio" width="40" height="40"/>
 </a>
@@ -168,21 +171,24 @@
   
 ### Infra:
 <p align="left">
-<a href="https://www.docker.com" target="_blank">
+ <a href="https://vercel.com/dashboard" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/>
+</a>
+ <a href="https://www.netlify.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/>
+</a>
+  <a href="https://www.nginx.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
+</a>
+ <a href="https://www.linux.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+</a>
+ <a href="https://www.docker.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://kubernetes.io" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> 
 </a> 
-<a href="https://www.linux.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-</a>
- <a href="https://vercel.com/dashboard" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/>
-</a>
-  <a href="https://www.nginx.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
-</a>
  </p>
   
 ### Database:
