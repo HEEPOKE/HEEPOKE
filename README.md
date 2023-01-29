@@ -137,7 +137,7 @@
  <img src="https://skillicons.dev/icons?i=windicss" alt="windicss" width="40" height="40"/>
 </a>
 <a href="https://www.cypress.io" target="_blank">
- <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" alt="cypress" width="40" height="40"/>
+ <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" alt="cypress" width="40" height="40"/>
 </a>
   
 
