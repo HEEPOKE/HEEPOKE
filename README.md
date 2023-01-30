@@ -138,6 +138,8 @@
 </a>
 <a href="https://www.cypress.io" target="_blank">
  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" alt="cypress" width="40" height="40"/>
+ <a href="https://jestjs.io" target="_blank">
+ <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
 </a>
   
 
