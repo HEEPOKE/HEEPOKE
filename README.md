@@ -121,9 +121,6 @@
  <a href="https://www.prisma.io/" target="_blank">
  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
 </a>
-   <a href="https://cucumber.io" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
-</a>
   <a href="https://getbootstrap.com/" target="_blank">
  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
@@ -138,6 +135,9 @@
 </a>
 <a href="https://www.cypress.io" target="_blank">
  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" alt="cypress" width="40" height="40"/>
+<a href="https://cucumber.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
+</a>
  <a href="https://jestjs.io" target="_blank">
  <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
 </a>
