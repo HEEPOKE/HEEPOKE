@@ -133,13 +133,16 @@
     <a href="https://windicss.org" target="_blank">
  <img src="https://skillicons.dev/icons?i=windicss" alt="windicss" width="40" height="40"/>
 </a>
-<a href="https://www.cypress.io" target="_blank">
- <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" alt="cypress" width="40" height="40"/>
 <a href="https://cucumber.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
 </a>
  <a href="https://jestjs.io" target="_blank">
  <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
+</a>
+ <a href="https://www.cypress.io" target="_blank">
+ <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" alt="cypress" width="40" height="40"/>
+<a href="https://vitest.dev" target="_blank">
+ <img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" alt="vitest" width="40" height="40"/>
 </a>
   
 
