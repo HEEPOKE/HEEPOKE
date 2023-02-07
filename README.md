@@ -67,7 +67,7 @@
 <a href="https://laravel.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
 </a>
-  <a href="https://angular.io/" target="_blank">
+<a href="https://angular.io/" target="_blank">
   <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/>
 </a>
 <a href="https://vuejs.org/" target="_blank">
@@ -76,10 +76,10 @@
 <a href="https://nuxtjs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/>
 </a>
- <a href="https://svelte.dev/docs" target="_blank">
-  <img src="https://skillicons.dev/icons?i=svelte" alt=svelte" width="40" height="40"/>
+<a href="https://svelte.dev/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40" />
 </a>
-  <a href="https://nextjs.org" target="_blank">
+<a href="https://nextjs.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
 </a>
   <a href="https://nestjs.com" target="_blank">
