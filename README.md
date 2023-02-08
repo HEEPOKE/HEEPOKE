@@ -91,7 +91,7 @@
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
   <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
 </a>
-      <a href="https://www.ruby-lang.org/en/" target="_blank">
+<a href="https://www.ruby-lang.org/en/" target="_blank">
   <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/>
 </a>
 <a href="https://rubyonrails.org/" target="_blank">
