@@ -115,7 +115,7 @@
   <a href="https://palletsprojects.com/p/flask/" target="_blank">
   <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
 </a>
-    <a href="https://graphql.org" target="_blank">
+<a href="https://graphql.org" target="_blank">
  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
 </a>    
  <a href="https://www.apollographql.com" target="_blank">
