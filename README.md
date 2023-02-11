@@ -88,7 +88,7 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://skillicons.dev/icons?i=cs" alt="c#" width="40" height="40"/>
 </a>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
   <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
 </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank">
