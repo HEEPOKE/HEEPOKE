@@ -82,7 +82,7 @@
 <a href="https://nextjs.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
 </a>
-  <a href="https://nestjs.com" target="_blank">
+<a href="https://nestjs.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
 </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
