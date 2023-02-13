@@ -191,7 +191,7 @@
  <a href="https://www.linux.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
 </a>
- <a href="https://www.docker.com" target="_blank">
+<a href="https://www.docker.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://kubernetes.io" target="_blank"> 
