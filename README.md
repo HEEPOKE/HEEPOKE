@@ -112,7 +112,7 @@
  <a href="https://fastapi.tiangolo.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
 </a>
-  <a href="https://palletsprojects.com/p/flask/" target="_blank">
+<a href="https://palletsprojects.com/p/flask/" target="_blank">
   <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
 </a>
 <a href="https://graphql.org" target="_blank">
