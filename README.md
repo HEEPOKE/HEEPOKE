@@ -37,7 +37,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
 </a> 
- <a href="https://nodejs.org" target="_blank"> 
+<a href="https://nodejs.org" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
 </a> 
  <a href="https://deno.land" target="_blank"> 
