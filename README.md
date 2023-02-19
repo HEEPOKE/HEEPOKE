@@ -40,7 +40,7 @@
 <a href="https://nodejs.org" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
 </a> 
- <a href="https://deno.land" target="_blank"> 
+<a href="https://deno.land" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=deno" alt="deno" width="40" height="40"/> 
 </a> 
 <a href="https://reactjs.org/" target="_blank">
