@@ -58,6 +58,9 @@
 <a href="https://flutter.dev" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> 
 </a> 
+<a href="https://developer.apple.com/swift/" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> 
+</a> 
 <a href="https://golang.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> 
 </a> 
