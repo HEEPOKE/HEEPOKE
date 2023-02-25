@@ -127,7 +127,7 @@
 <a href="https://www.apollographql.com" target="_blank">
  <img src="https://skillicons.dev/icons?i=apollo" alt="apollo" width="40" height="40"/>
 </a>    
- <a href="https://www.prisma.io/" target="_blank">
+<a href="https://www.prisma.io/" target="_blank">
  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
