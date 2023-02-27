@@ -121,6 +121,12 @@
 <a href="https://palletsprojects.com/p/flask/" target="_blank">
   <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
 </a>
+<a href="hhttps://www.java.com/en/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+</a>
+<a href="https://spring.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spring" alt="springboot" width="40" height="40"/>
+</a>
 <a href="https://jquery.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" height="40"/>
 </a>
