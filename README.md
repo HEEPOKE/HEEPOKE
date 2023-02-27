@@ -57,6 +57,9 @@
 </a>
 <a href="https://flutter.dev" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> 
+</a>
+<a href="https://kotlinlang.org" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> 
 </a> 
 <a href="https://www.swift.org/documentation/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> 
