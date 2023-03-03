@@ -121,6 +121,9 @@
 <a href="https://palletsprojects.com/p/flask/" target="_blank">
   <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
 </a>
+<a href="https://gradle.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gradle" alt="gradle" width="40" height="40"/>
+</a>
 <a href="hhttps://www.java.com/en/" target="_blank">
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
 </a>
