@@ -130,9 +130,9 @@
 <a href="https://spring.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=spring" alt="springboot" width="40" height="40"/>
 </a>
-<a href="https://www.scala-lang.org" target="_blank">
+<!-- <a href="https://www.scala-lang.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=scala" alt="scala" width="40" height="40"/>
-</a>
+</a> -->
 <a href="https://jquery.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" height="40"/>
 </a>
