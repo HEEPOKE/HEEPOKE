@@ -163,7 +163,7 @@
 <a href="https://cucumber.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
 </a>
- <a href="https://jestjs.io" target="_blank">
+<a href="https://jestjs.io" target="_blank">
  <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
 </a>
 <a href="https://www.cypress.io" target="_blank">
