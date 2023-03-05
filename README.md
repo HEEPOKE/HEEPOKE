@@ -109,7 +109,7 @@
   <a href="https://actix.rs" target="_blank">
   <img src="https://skillicons.dev/icons?i=actix" alt="actix" width="40" height="40"/>
 </a>
-   <a href="https://www.python.org" target="_blank">
+<a href="https://www.python.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
 </a>
 <a href="https://www.djangoproject.com" target="_blank">
