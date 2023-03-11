@@ -203,7 +203,7 @@
   
 ### Infra:
 <p align="left">
- <a href="https://vercel.com/dashboard" target="_blank">
+<a href="https://vercel.com/dashboard" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/>
 </a>
  <a href="https://www.netlify.com" target="_blank">
