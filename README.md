@@ -224,7 +224,7 @@
 <a href="#" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=githubactions" alt="github-action" width="40" height="40"/> 
 </a> 
- </p>
+</p>
   
 ### Database:
 <p align="left">
