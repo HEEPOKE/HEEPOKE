@@ -31,6 +31,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
 </a>
+<a href="https://sass-lang.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
 </a> 
