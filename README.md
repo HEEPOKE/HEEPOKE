@@ -157,7 +157,7 @@
 <a href="https://tailwindcss.com" target="_blank">
  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind css" width="40" height="40"/>
 </a>
-    <a href="https://windicss.org" target="_blank">
+<a href="https://windicss.org" target="_blank">
  <img src="https://skillicons.dev/icons?i=windicss" alt="windicss" width="40" height="40"/>
 </a>
 <a href="https://cucumber.io" target="_blank">
