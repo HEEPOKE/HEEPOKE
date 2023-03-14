@@ -118,7 +118,7 @@
 <a href="https://www.djangoproject.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
 </a>
- <a href="https://fastapi.tiangolo.com" target="_blank">
+<a href="https://fastapi.tiangolo.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
 </a>
 <a href="https://palletsprojects.com/p/flask/" target="_blank">
