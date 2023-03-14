@@ -181,6 +181,9 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/>
 </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="40" height="40"/>
+</a>
 <a href="https://www.vim.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="40" height="40"/>
 </a>
