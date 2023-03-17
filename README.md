@@ -177,7 +177,7 @@
   
 
 ### Tools:
-  <p align="left">
+<p align="left">
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/>
 </a>
