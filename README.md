@@ -233,6 +233,9 @@
 <a href="https://www.nginx.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
 </a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+</a>
 <a href="https://cloud.google.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
 </a>
