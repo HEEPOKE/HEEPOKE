@@ -45,7 +45,10 @@
 </a> 
 <a href="https://deno.land" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=deno" alt="deno" width="40" height="40"/> 
-</a> 
+</a>
+<a href="https://astro.build" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=astro" alt="astro" width="40" height="40"/> 
+</a>
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
 </a> 
