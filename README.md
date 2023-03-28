@@ -112,7 +112,7 @@
 <a href="https://www.rust-lang.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
 </a>
-  <a href="https://actix.rs" target="_blank">
+<a href="https://actix.rs" target="_blank">
   <img src="https://skillicons.dev/icons?i=actix" alt="actix" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank">
