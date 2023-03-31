@@ -196,7 +196,7 @@
 <a href="https://neovim.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="40" height="40"/>
 </a>
-  <a href="https://developer.android.com/studio?gclid=CjwKCAjw5P2aBhAlEiwAAdY7dIazi1LpIsZoMRLFanlek-4dCt9rToVB83PBp8jMXrygbnJaM5QunxoCnm8QAvD_BwE&gclsrc=aw.ds" target="_blank">
+<a href="https://developer.android.com/studio?gclid=CjwKCAjw5P2aBhAlEiwAAdY7dIazi1LpIsZoMRLFanlek4dCt9rToVB83PBp8jMXrygbnJaM5QunxoCnm8QAvD_BwE&gclsrc=aw.ds" target="_blank">
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="android studio" width="40" height="40"/>
 </a>
 <a href="https://www.figma.com/" target="_blank">
