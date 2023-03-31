@@ -205,7 +205,7 @@
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vite" alt="Vitejs" width="40" height="40"/>
 </a>
-  <a href="https://www.postman.com/downloads/" target="_blank">
+<a href="https://www.postman.com/downloads/" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
 </p>
