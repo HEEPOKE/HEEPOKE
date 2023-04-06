@@ -2,7 +2,7 @@
  src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HEEPOKE.SpoonKnife&label=View%20Profile&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=blue" />
 </p>
 <p align="center" width="700" height="85"><img src="https://i.idol.st/u/activities/m3Z8djnm31GFmyKdIFa9DFqUODdIug.gif"></p>
-<p><marquee><a href="https://github.com/HEEPOKE"><h1 align="center">HI👋 ,I'm Poundpitak</h1></a></marquee></p>
+<p><a href="https://github.com/HEEPOKE"><h1 align="center" style="animation: marquee 10s linear infinite;">HI👋 ,I'm Poundpitak</h1></a></p>
 
 <h3>Thailand</h3>
 
@@ -295,3 +295,14 @@
   <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
 </a>
 </p>
+ 
+ <style>
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+</style>
