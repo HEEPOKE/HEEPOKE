@@ -205,6 +205,9 @@
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vite" alt="Vitejs" width="40" height="40"/>
 </a>
+<a href="https://tauri.app/" target="_blank">
+ <img src="https://skillicons.dev/icons?i=tauri" alt="tauri" width="40" height="40"/>
+</a>
 <a href="https://www.postman.com/downloads/" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
@@ -286,6 +289,9 @@
 
 ### Others:
 <p align="left">
+<a href="https://sequelize.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sequelize" alt="sequelize" width="40" height="40"/>
+</a>
 <a href="#" target="_blank">
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
 </a>
