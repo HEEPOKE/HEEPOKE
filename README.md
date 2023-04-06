@@ -139,6 +139,9 @@
 <!-- <a href="https://www.scala-lang.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=scala" alt="scala" width="40" height="40"/>
 </a> -->
+<a href="https://wordpress.com/hosting/?aff=15767&cid=1654213&cmp_id=11549382845&adg_id=111353876614&kwd=wordpress&device=c&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETGpPLZi6jDh_E3AvqsSmDfsLVmrDYegg0nFfsCkkaZy7ajwlar2mcgaApD_EALw_wcB" target="_blank">
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/>
+</a>
 <a href="https://jquery.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" height="40"/>
 </a>
