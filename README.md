@@ -212,7 +212,7 @@
  <img src="https://skillicons.dev/icons?i=tauri" alt="tauri" width="40" height="40"/>
 </a>
 <a href="https://www.postman.com/downloads/" target="_blank">
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
 </a>
 </p>
   
