@@ -10,6 +10,7 @@
 
 ### About Me
 - Fullstack Developer
+- Backend Developer
 
 ### Stats
 [![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/HEEPOKE/HEEPOKE)
