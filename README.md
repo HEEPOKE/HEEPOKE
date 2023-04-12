@@ -19,7 +19,7 @@
 | ------------- | ------------- |
 
 
-|  [![HEEPOKE GitHub Use Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true)](https://github.com/HEEPOKE/HEEPOKE) | [![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark)](https://github.com/HEEPOKE)  |
+|  [![HEEPOKE GitHub Use Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true&hide=javascript)](https://github.com/HEEPOKE/HEEPOKE) | [![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark)](https://github.com/HEEPOKE)  |
 | ------------- | ------------- |
 
 
