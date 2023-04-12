@@ -157,6 +157,9 @@
 <a href="https://www.prisma.io/" target="_blank">
  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/>
 </a>
+<a href="https://sequelize.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sequelize" alt="sequelize" width="40" height="40"/>
+</a>
 <a href="https://getbootstrap.com/" target="_blank">
  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
@@ -292,9 +295,6 @@
 
 ### Others:
 <p align="left">
-<a href="https://sequelize.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sequelize" alt="sequelize" width="40" height="40"/>
-</a>
 <a href="#" target="_blank">
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
 </a>
