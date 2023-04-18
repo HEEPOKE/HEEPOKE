@@ -23,7 +23,7 @@
 |  [![HEEPOKE GitHub Use Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true&exclude_repo=TournamentPHP,reserve-hotel,Sortwork,karupan,project-saha)](https://github.com/HEEPOKE/HEEPOKE) | [![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark)](https://github.com/HEEPOKE)  |
 | ------------- | ------------- |
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="HEEPOKE Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=HEEPOKE&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HEEPOKE&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages && Framework && Libary:
 <p align="left">
