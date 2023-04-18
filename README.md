@@ -23,7 +23,7 @@
 |  [![HEEPOKE GitHub Use Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true&exclude_repo=TournamentPHP,reserve-hotel,Sortwork,karupan,project-saha)](https://github.com/HEEPOKE/HEEPOKE) | [![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark)](https://github.com/HEEPOKE)  |
 | ------------- | ------------- |
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HEEPOKE&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![HEEPOKE's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HEEPOKE&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages && Framework && Libary:
 <p align="left">
@@ -138,9 +138,9 @@
 <a href="https://spring.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=spring" alt="springboot" width="40" height="40"/>
 </a>
-<!-- <a href="https://www.scala-lang.org" target="_blank">
+<a href="https://www.scala-lang.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=scala" alt="scala" width="40" height="40"/>
-</a> -->
+</a>
 <a href="https://wordpress.com/hosting/?aff=15767&cid=1654213&cmp_id=11549382845&adg_id=111353876614&kwd=wordpress&device=c&gclid=Cj0KCQjw27mhBhC9ARIsAIFsETGpPLZi6jDh_E3AvqsSmDfsLVmrDYegg0nFfsCkkaZy7ajwlar2mcgaApD_EALw_wcB" target="_blank">
   <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/>
 </a>
