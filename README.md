@@ -78,6 +78,9 @@
 <a href="https://www.php.net/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=php" alt="php" width="" height="40"/>
 </a>
+<a href="https://symfony.com" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=symfony" alt="symfony" width="" height="40"/>
+</a>
 <a href="https://laravel.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
 </a>
