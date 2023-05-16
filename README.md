@@ -192,7 +192,6 @@
  <img src="https://skillicons.dev/icons?i=md" alt="md" width="40" height="40"/>
 </a>
   
-
 ### Tools:
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank">
