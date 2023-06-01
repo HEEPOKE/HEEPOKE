@@ -256,6 +256,12 @@
 <a href="https://cloud.google.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
 </a>
+<a href="https://www.cloudflare.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="40" height="40"/>
+</a>
+<a href="https://docs.openshift.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=openshift" alt="openshift" width="40" height="40"/>
+</a>
 </p>
   
 ### Database:
@@ -308,6 +314,9 @@
 </a>
 <a href="https://codepen.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=codepen" alt="codepen" width="40" height="40"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents" width="40" height="40"/>
 </a>
 <a href="https://www.adobe.com/th_th/products/photoshop/landpa.html?gclid=Cj0KCQjwhY-aBhCUARIsALNIC07e7QchCdpUEbUwz1Y7Yxs9fuATrswZydyESYmh6VoLtrOwluKFsMkaAgDaEALw_wcB&sdid=Z662FWNM&mv=search&ef_id=Cj0KCQjwhY-aBhCUARIsALNIC07e7QchCdpUEbUwz1Y7Yxs9fuATrswZydyESYmh6VoLtrOwluKFsMkaAgDaEALw_wcB:G:s&s_kwcid=AL!3085!3!469963249343!e!!g!!photoshop!11255868602!109251042654" target="_blank">
   <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="40" height="40"/>
