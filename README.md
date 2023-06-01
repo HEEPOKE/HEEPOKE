@@ -281,6 +281,9 @@
 <a href="https://redis.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
 </a>
+<a href="https://cassandra.apache.org/_/index.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cassandra" alt="cassandra" width="40" height="40"/>
+</a>
 
 ### Version control:
 <p align="left">
