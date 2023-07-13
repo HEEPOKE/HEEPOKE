@@ -1,4 +1,4 @@
-![GitHub Logo](https://img.shields.io/github/watchers/HEEPOKE?label=Visitors&logo=github&style=flat-square)
+![GitHub Logo](https://img.shields.io/github/watchers/HEEPOKE/HEEPOKE?label=Visitors&logo=github&style=flat-square)
 <p align="center" width="700" height="85"><img src="https://i.idol.st/u/activities/m3Z8djnm31GFmyKdIFa9DFqUODdIug.gif"></p>
 <!-- <img height="20%"  width="200px" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HEEPOKE.HEEPOKE&label=View%20Profile&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=blue" /> -->
 <!-- <p><img src="https://komarev.com/ghpvc/?username=HEEPPOKE&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p> -->
