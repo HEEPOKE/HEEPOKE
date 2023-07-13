@@ -1,8 +1,6 @@
-<p>
-<img height="20%"  width="200px" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HEEPOKE.HEEPOKE&label=View%20Profile&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=blue" />
-![Visitor Count](https://profile-counter.glitch.me/HEEPOKE/count.svg)
-</p>
 <p align="center" width="700" height="85"><img src="https://i.idol.st/u/activities/m3Z8djnm31GFmyKdIFa9DFqUODdIug.gif"></p>
+<img height="20%"  width="200px" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=HEEPOKE.HEEPOKE&label=View%20Profile&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=blue" />
+[![Visitor Count](https://profile-counter.glitch.me/HEEPOKE/count.svg)
 <p><a href="https://github.com/HEEPOKE"><h1 align="center">HI👋 ,I'm Poundpitak</h1></a></p>
 <h3>Thailand</h3>
 
