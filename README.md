@@ -18,7 +18,7 @@
 |  [![HEEPOKE GitHub Use Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEEPOKE&theme=github_dark&count_private=true&exclude=html,JavaScript,Vue)](https://github.com/HEEPOKE/HEEPOKE) | [![Top Langs Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HEEPOKE&theme=github_dark&exclude=html,JavaScript,Astro,Vue)](https://github.com/HEEPOKE)  |
 | ------------- | ------------- |
 
-![heepoke's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heepoke\&layout=compact)
+![Heepoke's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heepoke&layout=compact)
 [![HEEPOKE's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HEEPOKE&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages && Framework && Libary:
