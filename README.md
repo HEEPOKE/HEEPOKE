@@ -132,8 +132,11 @@
 <a href="https://gradle.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=gradle" alt="gradle" width="40" height="40"/>
 </a>
-<a href="hhttps://www.java.com/en/" target="_blank">
+<a href="https://www.java.com/en/" target="_blank">
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+</a>
+<a href="https://hibernate.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="40" height="40"/>
 </a>
 <a href="https://spring.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=spring" alt="springboot" width="40" height="40"/>
