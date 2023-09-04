@@ -177,6 +177,9 @@
 <a href="https://windicss.org" target="_blank">
  <img src="https://skillicons.dev/icons?i=windicss" alt="windicss" width="40" height="40"/>
 </a>
+<a href="https://emotion.sh/docs/introduction" target="_blank">
+ <img src="https://skillicons.dev/icons?i=emotion" alt="emotion" width="40" height="40"/>
+</a>
 <a href="https://cucumber.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=gherkin" alt="cucumber" width="40" height="40"/>
 </a>
@@ -311,6 +314,9 @@
 
 ### Others:
 <p align="left">
+<a href="https://babeljs.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/>
+</a>
 <a href="#" target="_blank">
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
 </a>
