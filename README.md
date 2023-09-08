@@ -90,6 +90,9 @@
 <a href="https://nuxtjs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/>
 </a>
+<a href="https://lit.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=lit" alt="lit" width="40" height="40"/>
+</a>
 <a href="https://svelte.dev/docs" target="_blank">
   <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40" />
 </a>
