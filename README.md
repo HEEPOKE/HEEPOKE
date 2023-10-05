@@ -3,14 +3,12 @@
 <p><a href="https://github.com/HEEPOKE"><h1 align="center">HI👋 ,I'm Poundpitak</h1></a></p>
 <h3>Thailand</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE&theme=radical&column=7&margin-w=15&margin-h=15)]()
-
+| [![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE&theme=radical&column=7&margin-w=15&margin-h=15)]() | [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com) |
 ### About Me
 - Fullstack Developer
 - Backend Developer
 
 ### Stats
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
 [![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/HEEPOKE/HEEPOKE)
 
