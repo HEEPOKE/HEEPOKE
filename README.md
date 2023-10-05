@@ -10,6 +10,7 @@
 - Backend Developer
 
 ### Stats
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 [![HISTORY Github](https://github-readme-streak-stats.herokuapp.com?user=HEEPOKE&theme=neon-dark&hide_border=false&mode=weekly)](https://github.com/HEEPOKE/HEEPOKE)
 
 |  [![HEEPOKE GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEPOKE&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/HEEPOKE/HEEPOKE) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEEPOKE&layout=compact&langs_count=10&hide=html,css,scss,less,Hack,shell,batchfile,blade,svelte,JavaScript,Astro,Smart,CMake,Python,Kotlin,c%2B%2B&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github.com/HEEPOKE/HEEPOKE)   |
@@ -21,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HEEPOKE&layout=compact" width="100%">
 
 [![HEEPOKE's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HEEPOKE&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
 ### Languages && Framework && Libary:
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> 
