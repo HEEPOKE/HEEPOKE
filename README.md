@@ -3,7 +3,9 @@
 <p><a href="https://github.com/HEEPOKE"><h1 align="center">HI👋 ,I'm Poundpitak</h1></a></p>
 <h3>Thailand</h3>
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE&theme=radical&column=7&margin-w=15&margin-h=15)]() | [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com) |
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE&theme=radical&column=7&margin-w=15&margin-h=15)]() 
+
 ### About Me
 - Fullstack Developer
 - Backend Developer
