@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HEEPOKE&layout=compact" width="100%">
 
 [![HEEPOKE's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HEEPOKE&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 ### Languages && Framework && Libary:
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> 
