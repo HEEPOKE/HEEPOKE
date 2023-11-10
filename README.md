@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=HEEPOKE.HEEPOKE&format=true)
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
-![autocomplete](https://codeium.com/badges/user/snobbishly-holy-garpike-65363/autocomplete)
+[![streak](https://img.shields.io/endpoint?url=https://codeium.com/badges/user/snobbishly-holy-garpike-65363/streak)](https://codeium.com/profile/snobbishly-holy-garpike-65363)
 
 <p align="center" width="700" height="85"><img src="https://i.idol.st/u/activities/m3Z8djnm31GFmyKdIFa9DFqUODdIug.gif"></p>
 <p><a href="https://github.com/HEEPOKE"><h1 align="center">HI👋 ,I'm Poundpitak</h1></a></p>
