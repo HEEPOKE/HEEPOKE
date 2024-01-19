@@ -198,8 +198,9 @@
 </a>
 <a href="https://www.cypress.io" target="_blank">
  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" alt="cypress" width="40" height="40"/>
+</a>
 <a href="https://vitest.dev" target="_blank">
- <img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" alt="vitest" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40"/>
 </a>
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">
  <img src="https://skillicons.dev/icons?i=md" alt="md" width="40" height="40"/>
