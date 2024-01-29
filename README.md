@@ -202,9 +202,6 @@
 <a href="https://vitest.dev" target="_blank">
  <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40" />
 </a>
-<a href="https://vitejs.dev" target="_blank">
- <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40" />
-</a>
 <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">
  <img src="https://skillicons.dev/icons?i=md" alt="md" width="40" height="40"/>
 </a>
