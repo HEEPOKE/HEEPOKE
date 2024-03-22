@@ -287,6 +287,9 @@
 <a href="https://docs.openshift.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=openshift" alt="openshift" width="40" height="40"/>
 </a>
+<a href="https://www.redhat.com/en" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redhat" alt="redhat" width="40" height="40"/>
+</a>
 </p>
   
 ### Database:
