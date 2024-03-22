@@ -362,7 +362,7 @@
 <a href="https://www.google.com/intl/th/gmail/about/" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40"/>
 </a>
-<a href="https://codepen.io" target="_blank">
-  <img src="www.linkedin.com/in/pornpitak-amornlerdlittichai-752870135" alt="linkedin" width="40" height="40"/>
+<a href="www.linkedin.com/in/pornpitak-amornlerdlittichai-752870135" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
 </a>
 </p>
