@@ -374,13 +374,13 @@
 
 ### Contact: 
 <p align="left">
-<a href="https://discord.com" target="_blank">
+<a href="https://discord.com" target="blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40"/>
 </a>
-<a href="https://www.google.com/intl/th/gmail/about/" target="_blank">
+<a href="https://www.google.com/intl/th/gmail/about/" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40"/>
 </a>
-<a href="www.linkedin.com/in/pornpitak-amornlerdlittichai-752870135" target="_blank">
+<a href="www.linkedin.com/in/pornpitak-amornlerdlittichai-752870135" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
 </a>
 </p>
