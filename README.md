@@ -349,13 +349,20 @@
 <a href="https://www.apple.com/th/" target="_blank">
   <img src="https://skillicons.dev/icons?i=apple" alt="apple" width="40" height="40"/>
 </a>
+<a href="wwww.pornhub.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
+</a>
+</p>
+
+### Contact: 
+<p align="left">
 <a href="https://discord.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40"/>
 </a>
 <a href="https://www.google.com/intl/th/gmail/about/" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40"/>
 </a>
-<a href="wwww.pornhub.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
+<a href="https://codepen.io" target="_blank">
+  <img src="www.linkedin.com/in/pornpitak-amornlerdlittichai-752870135" alt="linkedin" width="40" height="40"/>
 </a>
 </p>
