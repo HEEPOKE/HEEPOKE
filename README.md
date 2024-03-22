@@ -352,6 +352,9 @@
 <a href="https://discord.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40"/>
 </a>
+<a href="https://www.google.com/intl/th/gmail/about/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40"/>
+</a>
 <a href="wwww.pornhub.com" target="_blank">
   <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
 </a>
