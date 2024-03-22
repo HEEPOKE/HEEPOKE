@@ -42,15 +42,18 @@
 </a> 
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank"> 
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
+</a>
+<a href="https://www.npmjs.com" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40"/> 
 </a>
 <a href="https://bun.sh" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40"/> 
 </a> 
 <a href="https://deno.land" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=deno" alt="deno" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
 </a>
 <a href="https://astro.build" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=astro" alt="astro" width="40" height="40"/> 
