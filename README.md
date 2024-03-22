@@ -343,6 +343,9 @@
 <a href="https://www.adobe.com/th_th/products/photoshop/landpa.html?gclid=Cj0KCQjwhY-aBhCUARIsALNIC07e7QchCdpUEbUwz1Y7Yxs9fuATrswZydyESYmh6VoLtrOwluKFsMkaAgDaEALw_wcB&sdid=Z662FWNM&mv=search&ef_id=Cj0KCQjwhY-aBhCUARIsALNIC07e7QchCdpUEbUwz1Y7Yxs9fuATrswZydyESYmh6VoLtrOwluKFsMkaAgDaEALw_wcB:G:s&s_kwcid=AL!3085!3!469963249343!e!!g!!photoshop!11255868602!109251042654" target="_blank">
   <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="40" height="40"/>
 </a>
+<a href="https://www.apple.com/th/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=apple" alt="apple" width="40" height="40"/>
+</a>
 <a href="wwww.pornhub.com" target="_blank">
   <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
 </a>
