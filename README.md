@@ -272,6 +272,9 @@
 <a href="https://www.linux.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
 </a>
+<a href="https://ubuntu.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/>
+</a>
 <a href="https://www.nginx.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
 </a>
