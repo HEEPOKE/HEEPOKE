@@ -46,6 +46,9 @@
 <a href="https://www.npmjs.com" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40"/> 
 </a>
+<a href="https://pnpm.io" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="40" height="40"/> 
+</a>
 <a href="https://bun.sh" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40"/> 
 </a> 
