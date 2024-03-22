@@ -49,6 +49,9 @@
 <a href="https://pnpm.io" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="40" height="40"/> 
 </a>
+<a href="https://yarnpkg.com" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="40" height="40"/> 
+</a>
 <a href="https://bun.sh" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40"/> 
 </a> 
