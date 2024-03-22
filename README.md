@@ -197,7 +197,7 @@
  <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
 </a>
 <a href="https://www.cypress.io" target="_blank">
- <img src="https://cdn.sanity.io/images/o0o2tn5x/production/13b9c8412093e2f0cdb5495e1f59144967fa1664-512x512.jpg" alt="cypress" width="40" height="40" />
+ <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40" />
 </a>
 <a href="https://vitest.dev" target="_blank">
  <img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40" />
