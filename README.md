@@ -190,6 +190,9 @@
 <a href="https://getbootstrap.com/" target="_blank">
  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </a>
+<a href="https://vuetifyjs.com/en/" target="_blank">
+ <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/>
+</a>
 <a href="#">
  <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/>
 </a>
