@@ -349,6 +349,9 @@
 <a href="#" target="_blank">
   <img src="https://skillicons.dev/icons?i=processing" alt="processing" width="40" height="40"/>
 </a>
+<a href="https://www.ansible.com" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=ansible" alt="ansible" width="40" height="40"/>
+</a>
 <a href="https://babeljs.io" target="_blank">
   <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/>
 </a>
