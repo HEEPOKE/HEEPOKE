@@ -9,8 +9,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=HEEPOKE&theme=radical&column=7&margin-w=15&margin-h=15)]() 
 
 ### About Me
-- Fullstack Developer
 - Backend Developer
+- Fullstack Developer
 
 ### Stats
 
