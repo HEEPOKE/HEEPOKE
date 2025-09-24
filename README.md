@@ -373,7 +373,7 @@
 <a href="https://www.microsoft.com/th-th/windows" target="_blank">
   <img src="https://skillicons.dev/icons?i=windows" alt="windows" width="40" height="40"/>
 </a>
-<a href="wwww.pornhub.com" target="_blank">
+<a href="www.pornhub.com" target="_blank">
   <img src="https://raw.githubusercontent.com/dudkinox/dudkinox/main/img/Pornhub-logo-circle.png" alt="Pornhub" width="40" height="40"/>
 </a>
 </p>
